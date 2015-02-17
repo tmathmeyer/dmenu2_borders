@@ -1,0 +1,1 @@
+exec ./dmenu_run -nb "#000" -nf "#fff" -sb "#333" -sf "#f88" -w 1520 -x 210 -y 160 -l 10 -bc "#f00" -bw 6
